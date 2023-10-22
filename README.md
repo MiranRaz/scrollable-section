@@ -1,3 +1,3 @@
 # React + GSAP - Scrollable Section
 
-Live Link [Here](https://theme-switch-lime.vercel.app/)
+Live Link [Here](https://react-gsap-scrollable-section.vercel.app/)
